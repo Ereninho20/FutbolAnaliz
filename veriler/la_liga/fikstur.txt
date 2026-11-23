@@ -1,0 +1,456 @@
+- Matchday 1
+17:30  Deportivo Alavés  v  Getafe CF  3-0
+19:30  Sevilla FC  v  Rayo Vallecano  2-1
+15:00  R. Racing Club  v  Villarreal CF  2-2
+17:00  RCD Espanyol de Barcelona  v  Levante UD  3-0
+19:00  RC Deportivo  v  Elche CF  1-1
+19:00  Atlético de Madrid  v  Málaga CF  2-0
+19:00  Valencia CF  v  Real Betis  0-1
+19:00  Real Madrid  v  Real Sociedad  4-1
+18:30  Celta  v  CA Osasuna  1-2
+19:00  FC Barcelona  v  Athletic Club  2-0
+
+- Matchday 2
+19:00  Rayo Vallecano  v  Deportivo Alavés  1-1
+19:00  Real Betis  v  Real Sociedad  1-0
+15:00  Athletic Club  v  Sevilla FC  1-3
+17:30  Valencia CF  v  Celta  0-0
+19:30  RCD Espanyol de Barcelona  v  Real Madrid  1-2
+15:00  Atlético de Madrid  v  Villarreal CF  2-2
+17:30  Getafe CF  v  R. Racing Club  1-0
+19:30  Elche CF  v  FC Barcelona  0-5
+17:30  CA Osasuna  v  Levante UD  0-0
+19:30  Málaga CF  v  RC Deportivo  1-1
+
+- Matchday 3
+17:00  R. Racing Club  v  Elche CF  3-2
+19:30  Deportivo Alavés  v  Villarreal CF  1-0
+15:00  Levante UD  v  Real Betis  5-2
+17:00  Real Sociedad  v  RCD Espanyol de Barcelona  2-1
+19:30  Sevilla FC  v  Atlético de Madrid  1-3
+15:00  Real Madrid  v  Málaga CF  4-0
+17:30  RC Deportivo  v  Valencia CF  3-1
+19:30  Celta  v  Athletic Club  0-2
+17:30  CA Osasuna  v  Getafe CF  1-0
+19:30  FC Barcelona  v  Rayo Vallecano  5-2
+
+- Matchday 4
+19:00  Real Betis  v  Real Madrid  1-0
+14:15  Athletic Club  v  Atlético de Madrid  3-0
+16:30  Rayo Vallecano  v  R. Racing Club  3-2
+19:00  Villarreal CF  v  RC Deportivo  2-3
+14:15  Valencia CF  v  FC Barcelona  0-5
+16:30  Deportivo Alavés  v  CA Osasuna  5-2
+16:30  Málaga CF  v  Levante UD  0-0
+19:00  RCD Espanyol de Barcelona  v  Sevilla FC  1-1
+17:00  Getafe CF  v  Celta  1-1
+19:30  Elche CF  v  Real Sociedad  2-3
+
+- Matchday 5
+19:00  Sevilla FC  v  Valencia CF  1-0
+12:00  R. Racing Club  v  Deportivo Alavés  2-1
+14:15  CA Osasuna  v  RCD Espanyol de Barcelona  0-2
+16:30  Athletic Club  v  Elche CF  1-1
+19:00  Real Madrid  v  Rayo Vallecano  4-1
+12:00  Celta  v  Málaga CF  1-1
+14:15  Levante UD  v  FC Barcelona  2-4
+16:30  Getafe CF  v  RC Deportivo  1-1
+19:00  Real Sociedad  v  Atlético de Madrid  0-3
+19:00  Villarreal CF  v  Real Betis  1-2
+
+- Matchday 6
+19:00  Real Sociedad  v  Celta  0-0
+17:00  Rayo Vallecano  v  RCD Espanyol de Barcelona  2-1
+18:00  Deportivo Alavés  v  Valencia CF  0-1
+19:30  Elche CF  v  Real Madrid  2-3
+17:00  Atlético de Madrid  v  CA Osasuna  4-0
+17:00  RC Deportivo  v  Sevilla FC  0-1
+19:30  FC Barcelona  v  R. Racing Club  7-2
+17:00  Real Betis  v  Getafe CF  1-0
+19:30  Málaga CF  v  Villarreal CF  1-3
+18:00  Levante UD  v  Athletic Club  3-1
+
+- Matchday 7
+19:00  RCD Espanyol de Barcelona  v  Elche CF  1-3
+12:00  CA Osasuna  v  Rayo Vallecano  1-1
+14:15  Athletic Club  v  Deportivo Alavés  0-0
+16:30  Celta  v  R. Racing Club  5-0
+19:00  Sevilla FC  v  FC Barcelona  1-3
+12:00  Getafe CF  v  Málaga CF  1-0
+14:15  Atlético de Madrid  v  Real Madrid  2-1
+16:30  RC Deportivo  v  Real Betis  1-1
+16:30  Villarreal CF  v  Levante UD  3-1
+19:00  Valencia CF  v  Real Sociedad  2-3
+
+- Matchday 8
+19:00  Málaga CF  v  RCD Espanyol de Barcelona  1-1
+14:15  Deportivo Alavés  v  Atlético de Madrid  1-2
+16:30  FC Barcelona  v  Getafe CF  3-0
+19:00  Real Madrid  v  Villarreal CF  1-0
+12:00  Elche CF  v  Celta  0-0
+14:15  Real Sociedad  v  RC Deportivo  3-2
+16:30  Real Betis  v  CA Osasuna  5-2
+19:00  R. Racing Club  v  Valencia CF  2-2
+19:00  Levante UD  v  Sevilla FC  3-3
+19:00  Rayo Vallecano  v  Athletic Club
+
+- Matchday 9
+19:00  RC Deportivo  v  Levante UD  1-1
+12:00  RCD Espanyol de Barcelona  v  Atlético de Madrid  0-1
+14:15  Villarreal CF  v  Elche CF  0-0
+16:30  Real Betis  v  FC Barcelona  2-5
+19:00  Valencia CF  v  Athletic Club  0-0
+12:00  CA Osasuna  v  R. Racing Club  2-0
+14:15  Celta  v  Deportivo Alavés  2-1
+16:30  Málaga CF  v  Real Sociedad  2-5
+19:00  Real Madrid  v  Sevilla FC  4-1
+19:00  Getafe CF  v  Rayo Vallecano  1-1
+
+- Matchday 10
+19:00  Deportivo Alavés  v  Málaga CF  1-1
+12:00  Rayo Vallecano  v  Elche CF  0-3
+14:15  R. Racing Club  v  RCD Espanyol de Barcelona  2-1
+16:30  Valencia CF  v  Villarreal CF  1-2
+19:00  Atlético de Madrid  v  RC Deportivo  1-0
+13:00  Athletic Club  v  Getafe CF  4-0
+15:15  Celta  v  Real Betis  0-0
+17:30  Real Sociedad  v  Levante UD  2-1
+20:00  FC Barcelona  v  Real Madrid  1-2
+20:00  Sevilla FC  v  CA Osasuna  2-0
+
+- Matchday 11
+20:00  Villarreal CF  v  RCD Espanyol de Barcelona  0-1
+13:00  Levante UD  v  Atlético de Madrid  0-2
+15:15  Rayo Vallecano  v  Celta  3-0
+17:30  Real Betis  v  Málaga CF  2-1
+20:00  FC Barcelona  v  Deportivo Alavés  6-1
+13:00  Getafe CF  v  Sevilla FC  3-1
+15:15  R. Racing Club  v  Real Madrid  0-3
+17:30  Elche CF  v  Valencia CF  0-1
+20:00  Athletic Club  v  Real Sociedad  2-1
+20:00  RC Deportivo  v  CA Osasuna  2-1
+
+- Matchday 12
+20:00  Sevilla FC  v  Deportivo Alavés  0-0
+13:00  Málaga CF  v  R. Racing Club  1-2
+15:15  RCD Espanyol de Barcelona  v  RC Deportivo  0-0
+17:30  CA Osasuna  v  Athletic Club  1-1
+20:00  Valencia CF  v  Real Madrid  0-3
+13:00  Elche CF  v  Real Betis  0-2
+15:15  Real Sociedad  v  Rayo Vallecano  1-0
+17:30  Celta  v  Levante UD  0-0
+17:30  Villarreal CF  v  Getafe CF  2-0
+20:00  Atlético de Madrid  v  FC Barcelona  1-2
+
+- Matchday 13
+20:00  Athletic Club  v  RCD Espanyol de Barcelona  0-1
+13:00  Deportivo Alavés  v  RC Deportivo
+15:15  Rayo Vallecano  v  Valencia CF
+17:30  Sevilla FC  v  Real Betis                             1-1
+20:00  Real Madrid  v  Celta
+13:00  FC Barcelona  v  Villarreal CF
+15:15  R. Racing Club  v  Real Sociedad
+17:30  CA Osasuna  v  Málaga CF
+20:00  Getafe CF  v  Atlético de Madrid
+20:00  Levante UD  v  Elche CF
+
+- Matchday 14
+20:00  Levante UD  v  R. Racing Club
+13:00  Real Betis  v  Rayo Vallecano
+15:15  Málaga CF  v  Athletic Club
+17:30  Elche CF  v  Atlético de Madrid
+20:00  Real Madrid  v  Deportivo Alavés
+13:00  Valencia CF  v  CA Osasuna
+15:15  RC Deportivo  v  FC Barcelona
+17:30  Celta  v  Villarreal CF
+20:00  Real Sociedad  v  Sevilla FC
+20:00  RCD Espanyol de Barcelona  v  Getafe CF
+
+- Matchday 15
+20:00  Deportivo Alavés  v  RCD Espanyol de Barcelona
+13:00  R. Racing Club  v  RC Deportivo
+15:15  Rayo Vallecano  v  Levante UD
+17:30  Villarreal CF  v  Real Sociedad
+20:00  FC Barcelona  v  Celta
+13:00  CA Osasuna  v  Elche CF
+15:15  Athletic Club  v  Real Madrid
+17:30  Getafe CF  v  Valencia CF
+20:00  Atlético de Madrid  v  Real Betis
+20:00  Sevilla FC  v  Málaga CF
+
+- Matchday 16
+00:00  Atlético de Madrid  v  Valencia CF
+00:00  Real Betis  v  R. Racing Club
+00:00  RC Deportivo  v  Athletic Club
+00:00  Elche CF  v  Sevilla FC
+00:00  RCD Espanyol de Barcelona  v  Celta
+00:00  Levante UD  v  Deportivo Alavés
+00:00  Málaga CF  v  FC Barcelona
+00:00  Real Madrid  v  CA Osasuna
+00:00  Real Sociedad  v  Getafe CF
+00:00  Villarreal CF  v  Rayo Vallecano
+
+- Matchday 17
+00:00  Deportivo Alavés  v  Elche CF
+00:00  Athletic Club  v  Real Betis
+00:00  Celta  v  Atlético de Madrid
+00:00  RC Deportivo  v  Real Madrid
+00:00  FC Barcelona  v  Real Sociedad
+00:00  Getafe CF  v  Levante UD
+00:00  CA Osasuna  v  Villarreal CF
+00:00  Rayo Vallecano  v  Málaga CF
+00:00  Sevilla FC  v  R. Racing Club
+00:00  Valencia CF  v  RCD Espanyol de Barcelona
+
+- Matchday 18
+00:00  Real Betis  v  Deportivo Alavés
+00:00  Celta  v  RC Deportivo
+00:00  RCD Espanyol de Barcelona  v  FC Barcelona
+00:00  Levante UD  v  Valencia CF
+00:00  Málaga CF  v  Elche CF
+00:00  R. Racing Club  v  Athletic Club
+00:00  Rayo Vallecano  v  Atlético de Madrid
+00:00  Real Madrid  v  Getafe CF
+00:00  Real Sociedad  v  CA Osasuna
+00:00  Villarreal CF  v  Sevilla FC
+
+- Matchday 19
+00:00  Deportivo Alavés  v  Real Sociedad
+00:00  Athletic Club  v  Villarreal CF
+00:00  Atlético de Madrid  v  R. Racing Club
+00:00  RC Deportivo  v  Rayo Vallecano
+00:00  Elche CF  v  Getafe CF
+00:00  RCD Espanyol de Barcelona  v  Real Betis
+00:00  CA Osasuna  v  FC Barcelona
+00:00  Real Madrid  v  Levante UD
+00:00  Sevilla FC  v  Celta
+00:00  Valencia CF  v  Málaga CF
+
+- Matchday 20
+00:00  Atlético de Madrid  v  Real Sociedad
+00:00  Real Betis  v  RC Deportivo
+00:00  Celta  v  Valencia CF
+00:00  FC Barcelona  v  Elche CF
+00:00  Getafe CF  v  Athletic Club
+00:00  Levante UD  v  RCD Espanyol de Barcelona
+00:00  Málaga CF  v  Real Madrid
+00:00  R. Racing Club  v  CA Osasuna
+00:00  Rayo Vallecano  v  Sevilla FC
+00:00  Villarreal CF  v  Deportivo Alavés
+
+- Matchday 21
+00:00  Deportivo Alavés  v  FC Barcelona
+00:00  Athletic Club  v  Levante UD
+00:00  RC Deportivo  v  Atlético de Madrid
+00:00  Elche CF  v  Rayo Vallecano
+00:00  RCD Espanyol de Barcelona  v  Villarreal CF
+00:00  Getafe CF  v  CA Osasuna
+00:00  R. Racing Club  v  Celta
+00:00  Real Madrid  v  Real Betis
+00:00  Real Sociedad  v  Málaga CF
+00:00  Valencia CF  v  Sevilla FC
+
+- Matchday 22
+00:00  Atlético de Madrid  v  RCD Espanyol de Barcelona
+00:00  Real Betis  v  Elche CF
+00:00  Celta  v  Getafe CF
+00:00  FC Barcelona  v  Valencia CF
+00:00  Levante UD  v  Real Sociedad
+00:00  Málaga CF  v  Deportivo Alavés
+00:00  CA Osasuna  v  RC Deportivo
+00:00  Rayo Vallecano  v  Real Madrid
+00:00  Sevilla FC  v  Athletic Club
+00:00  Villarreal CF  v  R. Racing Club
+
+- Matchday 23
+18:00  Real Sociedad  v  Real Madrid
+20:30  FC Barcelona  v  Atlético de Madrid
+00:00  Deportivo Alavés  v  Celta
+00:00  Athletic Club  v  CA Osasuna
+00:00  Real Betis  v  Sevilla FC
+00:00  RC Deportivo  v  Málaga CF
+00:00  Elche CF  v  Levante UD
+00:00  RCD Espanyol de Barcelona  v  Rayo Vallecano
+00:00  Getafe CF  v  Villarreal CF
+00:00  Valencia CF  v  R. Racing Club
+
+- Matchday 24
+00:00  Celta  v  Rayo Vallecano
+00:00  Elche CF  v  RC Deportivo
+00:00  Levante UD  v  Málaga CF
+00:00  CA Osasuna  v  Atlético de Madrid
+00:00  R. Racing Club  v  Getafe CF
+00:00  Real Madrid  v  Athletic Club
+00:00  Real Sociedad  v  Real Betis
+00:00  Sevilla FC  v  RCD Espanyol de Barcelona
+00:00  Valencia CF  v  Deportivo Alavés
+00:00  Villarreal CF  v  FC Barcelona
+
+- Matchday 25
+00:00  Deportivo Alavés  v  R. Racing Club
+00:00  Athletic Club  v  Celta
+00:00  Atlético de Madrid  v  Elche CF
+00:00  RC Deportivo  v  Real Sociedad
+00:00  RCD Espanyol de Barcelona  v  CA Osasuna
+00:00  FC Barcelona  v  Levante UD
+00:00  Málaga CF  v  Real Betis
+00:00  Rayo Vallecano  v  Getafe CF
+00:00  Sevilla FC  v  Real Madrid
+00:00  Villarreal CF  v  Valencia CF
+
+- Matchday 26
+00:00  Athletic Club  v  FC Barcelona
+00:00  Real Betis  v  Villarreal CF
+00:00  Celta  v  RCD Espanyol de Barcelona
+00:00  Getafe CF  v  Deportivo Alavés
+00:00  Levante UD  v  RC Deportivo
+00:00  Málaga CF  v  Atlético de Madrid
+00:00  CA Osasuna  v  Sevilla FC
+00:00  R. Racing Club  v  Rayo Vallecano
+00:00  Real Madrid  v  Valencia CF
+00:00  Real Sociedad  v  Elche CF
+
+- Matchday 27
+00:00  Deportivo Alavés  v  Athletic Club
+00:00  Atlético de Madrid  v  Celta
+00:00  RC Deportivo  v  Getafe CF
+00:00  Elche CF  v  Málaga CF
+00:00  RCD Espanyol de Barcelona  v  R. Racing Club
+00:00  FC Barcelona  v  Real Betis
+00:00  Rayo Vallecano  v  CA Osasuna
+00:00  Sevilla FC  v  Real Sociedad
+00:00  Valencia CF  v  Levante UD
+00:00  Villarreal CF  v  Real Madrid
+
+- Matchday 28
+00:00  Deportivo Alavés  v  Sevilla FC
+00:00  Athletic Club  v  Valencia CF
+00:00  Real Betis  v  Levante UD
+00:00  Elche CF  v  Villarreal CF
+00:00  FC Barcelona  v  RC Deportivo
+00:00  Getafe CF  v  Real Sociedad
+00:00  Málaga CF  v  Rayo Vallecano
+00:00  CA Osasuna  v  Celta
+00:00  R. Racing Club  v  Atlético de Madrid
+00:00  Real Madrid  v  RCD Espanyol de Barcelona
+
+- Matchday 29
+00:00  Atlético de Madrid  v  Getafe CF
+00:00  Celta  v  Real Madrid
+00:00  RCD Espanyol de Barcelona  v  Athletic Club
+00:00  Levante UD  v  CA Osasuna
+00:00  R. Racing Club  v  Real Betis
+00:00  Rayo Vallecano  v  FC Barcelona
+00:00  Real Sociedad  v  Deportivo Alavés
+00:00  Sevilla FC  v  Elche CF
+00:00  Valencia CF  v  RC Deportivo
+00:00  Villarreal CF  v  Málaga CF
+
+- Matchday 30
+00:00  Athletic Club  v  R. Racing Club
+00:00  Real Betis  v  Celta
+00:00  RC Deportivo  v  Villarreal CF
+00:00  Elche CF  v  Deportivo Alavés
+00:00  FC Barcelona  v  Sevilla FC
+00:00  Getafe CF  v  RCD Espanyol de Barcelona
+00:00  Levante UD  v  Rayo Vallecano
+00:00  Málaga CF  v  CA Osasuna
+00:00  Real Madrid  v  Atlético de Madrid
+00:00  Real Sociedad  v  Valencia CF
+
+- Matchday 31
+00:00  Deportivo Alavés  v  Real Betis
+00:00  Atlético de Madrid  v  Levante UD
+00:00  Celta  v  Elche CF
+00:00  RCD Espanyol de Barcelona  v  Málaga CF
+00:00  CA Osasuna  v  Real Madrid
+00:00  R. Racing Club  v  FC Barcelona
+00:00  Rayo Vallecano  v  Real Sociedad
+00:00  Sevilla FC  v  RC Deportivo
+00:00  Valencia CF  v  Getafe CF
+00:00  Villarreal CF  v  Athletic Club
+
+- Matchday 32
+00:00  Deportivo Alavés  v  Rayo Vallecano
+00:00  Atlético de Madrid  v  Sevilla FC
+00:00  Real Betis  v  Athletic Club
+00:00  RC Deportivo  v  Celta
+00:00  Elche CF  v  CA Osasuna
+00:00  FC Barcelona  v  RCD Espanyol de Barcelona
+00:00  Getafe CF  v  Real Madrid
+00:00  Levante UD  v  Villarreal CF
+00:00  Málaga CF  v  Valencia CF
+00:00  Real Sociedad  v  R. Racing Club
+
+- Matchday 33
+00:00  Athletic Club  v  RC Deportivo
+00:00  Celta  v  FC Barcelona
+00:00  RCD Espanyol de Barcelona  v  Real Sociedad
+00:00  Getafe CF  v  Real Betis
+00:00  CA Osasuna  v  Deportivo Alavés
+00:00  R. Racing Club  v  Málaga CF
+00:00  Real Madrid  v  Elche CF
+00:00  Sevilla FC  v  Levante UD
+00:00  Valencia CF  v  Rayo Vallecano
+00:00  Villarreal CF  v  Atlético de Madrid
+
+- Matchday 34
+00:00  Atlético de Madrid  v  Deportivo Alavés
+00:00  Real Betis  v  Valencia CF
+00:00  Celta  v  Sevilla FC
+00:00  RC Deportivo  v  R. Racing Club
+00:00  Elche CF  v  RCD Espanyol de Barcelona
+00:00  FC Barcelona  v  CA Osasuna
+00:00  Levante UD  v  Real Madrid
+00:00  Málaga CF  v  Getafe CF
+00:00  Rayo Vallecano  v  Villarreal CF
+00:00  Real Sociedad  v  Athletic Club
+
+- Matchday 35
+00:00  Deportivo Alavés  v  Levante UD
+00:00  Athletic Club  v  Málaga CF
+00:00  Real Betis  v  RCD Espanyol de Barcelona
+00:00  Getafe CF  v  Elche CF
+00:00  CA Osasuna  v  Real Sociedad
+00:00  R. Racing Club  v  Sevilla FC
+00:00  Rayo Vallecano  v  RC Deportivo
+00:00  Real Madrid  v  FC Barcelona
+00:00  Valencia CF  v  Atlético de Madrid
+00:00  Villarreal CF  v  Celta
+
+- Matchday 36
+00:00  Atlético de Madrid  v  Rayo Vallecano
+00:00  RC Deportivo  v  Deportivo Alavés
+00:00  Elche CF  v  Athletic Club
+00:00  RCD Espanyol de Barcelona  v  Valencia CF
+00:00  Levante UD  v  Getafe CF
+00:00  Málaga CF  v  Celta
+00:00  CA Osasuna  v  Real Betis
+00:00  Real Madrid  v  R. Racing Club
+00:00  Real Sociedad  v  FC Barcelona
+00:00  Sevilla FC  v  Villarreal CF
+
+- Matchday 37
+00:00  Deportivo Alavés  v  Real Madrid
+00:00  Atlético de Madrid  v  Athletic Club
+00:00  Celta  v  Real Sociedad
+00:00  RC Deportivo  v  RCD Espanyol de Barcelona
+00:00  FC Barcelona  v  Málaga CF
+00:00  R. Racing Club  v  Levante UD
+00:00  Rayo Vallecano  v  Real Betis
+00:00  Sevilla FC  v  Getafe CF
+00:00  Valencia CF  v  Elche CF
+00:00  Villarreal CF  v  CA Osasuna
+
+- Matchday 38
+00:00  Athletic Club  v  Rayo Vallecano
+00:00  Real Betis  v  Atlético de Madrid
+00:00  Elche CF  v  R. Racing Club
+00:00  RCD Espanyol de Barcelona  v  Deportivo Alavés
+00:00  Getafe CF  v  FC Barcelona
+00:00  Levante UD  v  Celta
+00:00  Málaga CF  v  Sevilla FC
+00:00  CA Osasuna  v  Valencia CF
+00:00  Real Madrid  v  RC Deportivo
+00:00  Real Sociedad  v  Villarreal CF
+

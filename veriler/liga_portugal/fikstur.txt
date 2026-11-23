@@ -1,0 +1,374 @@
+- Matchday 1
+19:15  Estoril Praia  v  FC Famalicão  1-1
+14:30  Marítimo M.  v  Casa Pia AC  1-0
+17:00  Vitória SC  v  FC Arouca  0-1
+19:30  Estrela Amadora  v  Sporting CP  2-2
+17:00  FC Porto  v  FC Alverca  2-0
+19:30  Gil Vicente FC  v  Rio Ave FC  1-0
+19:30  Moreirense FC  v  SC Braga  2-2
+19:30  SL Benfica  v  Académico  2-2
+19:15  Santa Clara  v  CD Nacional  2-2
+
+- Matchday 2
+19:15  Sporting CP  v  Vitória SC  3-2
+14:30  FC Alverca  v  Estrela Amadora  2-2
+17:00  Académico  v  Santa Clara  0-1
+19:30  Rio Ave FC  v  FC Porto  0-2
+14:30  CD Nacional  v  Estoril Praia  2-0
+17:00  FC Arouca  v  Moreirense FC  4-0
+19:30  FC Famalicão  v  Marítimo M.  1-2
+19:15  Casa Pia AC  v  SL Benfica  0-7
+19:15  SC Braga  v  Gil Vicente FC  1-2
+
+- Matchday 3
+14:30  Marítimo M.  v  Académico  2-2
+17:00  Estoril Praia  v  Rio Ave FC  0-2
+19:30  Sporting CP  v  FC Alverca  3-1
+14:30  Vitória SC  v  CD Nacional  1-0
+17:00  Santa Clara  v  FC Famalicão  1-0
+19:30  FC Porto  v  FC Arouca  2-0
+19:15  Gil Vicente FC  v  Casa Pia AC  2-0
+19:45  Moreirense FC  v  SL Benfica  0-4
+19:15  Estrela Amadora  v  SC Braga  2-1
+
+- Matchday 4
+19:15  Rio Ave FC  v  Sporting CP  0-4
+14:30  FC Alverca  v  Santa Clara  1-1
+14:30  FC Arouca  v  Marítimo M.  2-1
+17:00  Académico  v  FC Porto  0-3
+14:30  CD Nacional  v  Estrela Amadora  2-3
+17:00  Casa Pia AC  v  Moreirense FC  0-1
+19:30  FC Famalicão  v  Gil Vicente FC  0-0
+19:15  SC Braga  v  Vitória SC  1-0
+19:15  SL Benfica  v  Estoril Praia  2-1
+
+- Matchday 5
+19:15  FC Porto  v  Moreirense FC  2-1
+14:30  Estrela Amadora  v  FC Famalicão  2-2
+17:00  FC Alverca  v  SC Braga  1-2
+17:00  Marítimo M.  v  SL Benfica  0-3
+19:30  Sporting CP  v  CD Nacional  2-0
+14:30  Santa Clara  v  Rio Ave FC  4-0
+17:00  Vitória SC  v  Casa Pia AC  0-0
+19:30  Gil Vicente FC  v  Académico  0-1
+19:15  Estoril Praia  v  FC Arouca  0-0
+
+- Matchday 6
+14:30  CD Nacional  v  FC Alverca  1-3
+17:00  Casa Pia AC  v  FC Porto  1-4
+19:30  Académico  v  Vitória SC  2-1
+17:00  FC Arouca  v  Santa Clara  1-2
+17:00  SL Benfica  v  Gil Vicente FC  3-1
+19:30  FC Famalicão  v  Sporting CP  1-1
+17:45  Rio Ave FC  v  Estrela Amadora  3-3
+19:15  Moreirense FC  v  Marítimo M.  3-1
+19:45  SC Braga  v  Estoril Praia  1-0
+
+- Matchday 7
+14:30  Gil Vicente FC  v  Marítimo M.  1-1
+14:30  CD Nacional  v  FC Famalicão  0-4
+17:00  FC Alverca  v  Rio Ave FC  1-0
+19:30  Sporting CP  v  FC Arouca  2-2
+14:30  Estrela Amadora  v  Académico  0-2
+14:30  Vitória SC  v  Moreirense FC  1-1
+17:00  Estoril Praia  v  Casa Pia AC  1-2
+17:00  Santa Clara  v  SC Braga  0-0
+19:30  FC Porto  v  SL Benfica  3-1
+
+- Matchday 8
+17:45  Moreirense FC  v  Gil Vicente FC  0-1
+19:15  SC Braga  v  Sporting CP  1-3
+17:00  Marítimo M.  v  FC Porto  1-2
+19:30  Académico  v  Estoril Praia  2-1
+19:30  Casa Pia AC  v  Santa Clara  0-1
+14:30  Rio Ave FC  v  CD Nacional  3-2
+17:00  SL Benfica  v  Vitória SC  2-0
+19:30  FC Arouca  v  Estrela Amadora  1-0
+19:15  FC Famalicão  v  FC Alverca  1-4
+
+- Matchday 9
+19:45  Vitória SC  v  Marítimo M.  5-0
+14:30  Estrela Amadora  v  Casa Pia AC  0-2
+17:00  FC Alverca  v  FC Arouca  0-1
+19:30  Gil Vicente FC  v  FC Porto  0-1
+15:30  Estoril Praia  v  Moreirense FC  1-3
+18:00  CD Nacional  v  SC Braga  1-0
+18:00  Rio Ave FC  v  FC Famalicão  0-4
+20:30  Sporting CP  v  Académico  1-2
+18:45  Santa Clara  v  SL Benfica  1-2
+
+- Matchday 10
+20:15  Casa Pia AC  v  Sporting CP  0-2
+15:30  Moreirense FC  v  Estrela Amadora  2-1
+20:30  FC Porto  v  Estoril Praia  4-0
+15:30  FC Arouca  v  CD Nacional  1-0
+18:00  Académico  v  Rio Ave FC  2-1
+18:00  Marítimo M.  v  Santa Clara  0-2
+20:30  SC Braga  v  FC Famalicão  3-0
+20:15  Gil Vicente FC  v  Vitória SC  0-0
+20:15  SL Benfica  v  FC Alverca  1-0
+
+- Matchday 11
+20:45  FC Famalicão  v  FC Arouca  1-0
+18:00  FC Alverca  v  Casa Pia AC  1-1
+20:30  Sporting CP  v  Moreirense FC  1-0
+15:30  CD Nacional  v  Académico  1-0
+15:30  Santa Clara  v  Gil Vicente FC  1-2
+18:00  Vitória SC  v  FC Porto  1-2
+20:30  Estrela Amadora  v  SL Benfica  2-3
+20:30  Rio Ave FC  v  SC Braga  0-1
+20:15  Estoril Praia  v  Marítimo M.
+
+- Matchday 12
+20:15  Marítimo M.  v  CD Nacional
+15:30  FC Arouca  v  Rio Ave FC
+15:30  Moreirense FC  v  Santa Clara
+18:00  Académico  v  FC Alverca
+20:30  Vitória SC  v  Estrela Amadora
+18:00  Gil Vicente FC  v  Estoril Praia
+20:30  FC Porto  v  Sporting CP
+20:15  Casa Pia AC  v  SC Braga
+20:15  SL Benfica  v  FC Famalicão
+
+- Matchday 13
+20:15  Sporting CP  v  Marítimo M.
+15:30  CD Nacional  v  SL Benfica
+18:00  Santa Clara  v  FC Porto
+20:30  SC Braga  v  FC Arouca
+15:30  Estrela Amadora  v  Gil Vicente FC
+15:30  Rio Ave FC  v  Casa Pia AC
+18:00  Estoril Praia  v  Vitória SC
+20:30  FC Famalicão  v  Académico
+20:15  FC Alverca  v  Moreirense FC
+
+- Matchday 14
+20:15  Académico  v  FC Arouca
+15:30  Estoril Praia  v  Santa Clara
+18:00  Marítimo M.  v  Rio Ave FC
+20:30  Gil Vicente FC  v  Sporting CP
+15:30  Casa Pia AC  v  CD Nacional
+15:30  Moreirense FC  v  FC Famalicão
+18:00  Vitória SC  v  FC Alverca
+20:30  FC Porto  v  Estrela Amadora
+20:15  SL Benfica  v  SC Braga
+
+- Matchday 15
+00:00  FC Alverca  v  Gil Vicente FC
+00:00  Estrela Amadora  v  Marítimo M.
+00:00  FC Arouca  v  Casa Pia AC
+00:00  SC Braga  v  Académico
+00:00  FC Famalicão  v  FC Porto
+00:00  CD Nacional  v  Moreirense FC
+00:00  Rio Ave FC  v  SL Benfica
+00:00  Santa Clara  v  Vitória SC
+00:00  Sporting CP  v  Estoril Praia
+
+- Matchday 16
+00:00  Casa Pia AC  v  FC Famalicão
+00:00  Estoril Praia  v  FC Alverca
+00:00  Gil Vicente FC  v  FC Arouca
+00:00  Marítimo M.  v  SC Braga
+00:00  Moreirense FC  v  Académico
+00:00  FC Porto  v  CD Nacional
+00:00  Santa Clara  v  Estrela Amadora
+00:00  SL Benfica  v  Sporting CP
+00:00  Vitória SC  v  Rio Ave FC
+
+- Matchday 17
+00:00  Académico  v  Casa Pia AC
+00:00  FC Alverca  v  Marítimo M.
+00:00  Estrela Amadora  v  Estoril Praia
+00:00  FC Arouca  v  SL Benfica
+00:00  SC Braga  v  FC Porto
+00:00  FC Famalicão  v  Vitória SC
+00:00  CD Nacional  v  Gil Vicente FC
+00:00  Rio Ave FC  v  Moreirense FC
+00:00  Sporting CP  v  Santa Clara
+
+- Matchday 18
+00:00  Sporting CP  v  Estrela Amadora
+00:00  FC Famalicão  v  Estoril Praia
+00:00  Rio Ave FC  v  Gil Vicente FC
+00:00  Casa Pia AC  v  Marítimo M.
+00:00  SC Braga  v  Moreirense FC
+00:00  FC Alverca  v  FC Porto
+00:00  CD Nacional  v  Santa Clara
+00:00  Académico  v  SL Benfica
+00:00  FC Arouca  v  Vitória SC
+
+- Matchday 19
+00:00  Santa Clara  v  Académico
+00:00  Estrela Amadora  v  FC Alverca
+00:00  Moreirense FC  v  FC Arouca
+00:00  Gil Vicente FC  v  SC Braga
+00:00  SL Benfica  v  Casa Pia AC
+00:00  Marítimo M.  v  FC Famalicão
+00:00  Estoril Praia  v  CD Nacional
+00:00  FC Porto  v  Rio Ave FC
+00:00  Vitória SC  v  Sporting CP
+
+- Matchday 20
+00:00  SC Braga  v  Estrela Amadora
+00:00  Rio Ave FC  v  Estoril Praia
+00:00  Casa Pia AC  v  Gil Vicente FC
+00:00  Académico  v  Marítimo M.
+00:00  SL Benfica  v  Moreirense FC
+00:00  FC Arouca  v  FC Porto
+00:00  FC Famalicão  v  Santa Clara
+00:00  FC Alverca  v  Sporting CP
+00:00  CD Nacional  v  Vitória SC
+
+- Matchday 21
+00:00  FC Porto  v  Académico
+00:00  Santa Clara  v  FC Alverca
+00:00  Marítimo M.  v  FC Arouca
+00:00  Vitória SC  v  SC Braga
+00:00  Moreirense FC  v  Casa Pia AC
+00:00  Gil Vicente FC  v  FC Famalicão
+00:00  Estrela Amadora  v  CD Nacional
+00:00  Sporting CP  v  Rio Ave FC
+00:00  Estoril Praia  v  SL Benfica
+
+- Matchday 22
+00:00  SC Braga  v  FC Alverca
+00:00  FC Famalicão  v  Estrela Amadora
+00:00  FC Arouca  v  Estoril Praia
+00:00  Académico  v  Gil Vicente FC
+00:00  SL Benfica  v  Marítimo M.
+00:00  Moreirense FC  v  FC Porto
+00:00  Rio Ave FC  v  Santa Clara
+00:00  CD Nacional  v  Sporting CP
+00:00  Casa Pia AC  v  Vitória SC
+
+- Matchday 23
+00:00  Vitória SC  v  Académico
+00:00  Santa Clara  v  FC Arouca
+00:00  Estoril Praia  v  SC Braga
+00:00  FC Porto  v  Casa Pia AC
+00:00  Sporting CP  v  FC Famalicão
+00:00  Marítimo M.  v  Moreirense FC
+00:00  FC Alverca  v  CD Nacional
+00:00  Estrela Amadora  v  Rio Ave FC
+00:00  Gil Vicente FC  v  SL Benfica
+
+- Matchday 24
+00:00  Rio Ave FC  v  FC Alverca
+00:00  Académico  v  Estrela Amadora
+00:00  Casa Pia AC  v  Estoril Praia
+00:00  Marítimo M.  v  Gil Vicente FC
+00:00  FC Famalicão  v  CD Nacional
+00:00  SL Benfica  v  FC Porto
+00:00  SC Braga  v  Santa Clara
+00:00  FC Arouca  v  Sporting CP
+00:00  Moreirense FC  v  Vitória SC
+
+- Matchday 25
+00:00  Estoril Praia  v  Académico
+00:00  Estrela Amadora  v  FC Arouca
+00:00  Sporting CP  v  SC Braga
+00:00  Santa Clara  v  Casa Pia AC
+00:00  FC Alverca  v  FC Famalicão
+00:00  FC Porto  v  Marítimo M.
+00:00  Gil Vicente FC  v  Moreirense FC
+00:00  CD Nacional  v  Rio Ave FC
+00:00  Vitória SC  v  SL Benfica
+
+- Matchday 26
+00:00  FC Arouca  v  FC Alverca
+00:00  Casa Pia AC  v  Estrela Amadora
+00:00  Moreirense FC  v  Estoril Praia
+00:00  FC Porto  v  Gil Vicente FC
+00:00  SC Braga  v  CD Nacional
+00:00  FC Famalicão  v  Rio Ave FC
+00:00  SL Benfica  v  Santa Clara
+00:00  Académico  v  Sporting CP
+00:00  Marítimo M.  v  Vitória SC
+
+- Matchday 27
+00:00  Rio Ave FC  v  Académico
+00:00  CD Nacional  v  FC Arouca
+00:00  FC Famalicão  v  SC Braga
+00:00  Sporting CP  v  Casa Pia AC
+00:00  Vitória SC  v  Gil Vicente FC
+00:00  Santa Clara  v  Marítimo M.
+00:00  Estrela Amadora  v  Moreirense FC
+00:00  Estoril Praia  v  FC Porto
+00:00  FC Alverca  v  SL Benfica
+
+- Matchday 28
+23:00  Casa Pia AC  v  FC Alverca
+23:00  SL Benfica  v  Estrela Amadora
+23:00  Marítimo M.  v  Estoril Praia
+23:00  FC Arouca  v  FC Famalicão
+23:00  Académico  v  CD Nacional
+23:00  SC Braga  v  Rio Ave FC
+23:00  Gil Vicente FC  v  Santa Clara
+23:00  Moreirense FC  v  Sporting CP
+23:00  FC Porto  v  Vitória SC
+
+- Matchday 29
+23:00  FC Alverca  v  Académico
+23:00  Rio Ave FC  v  FC Arouca
+23:00  SC Braga  v  Casa Pia AC
+23:00  Estoril Praia  v  Gil Vicente FC
+23:00  CD Nacional  v  Marítimo M.
+23:00  Santa Clara  v  Moreirense FC
+23:00  Sporting CP  v  FC Porto
+23:00  FC Famalicão  v  SL Benfica
+23:00  Estrela Amadora  v  Vitória SC
+
+- Matchday 30
+23:00  Moreirense FC  v  FC Alverca
+23:00  Gil Vicente FC  v  Estrela Amadora
+23:00  FC Arouca  v  SC Braga
+23:00  Vitória SC  v  Estoril Praia
+23:00  Académico  v  FC Famalicão
+23:00  SL Benfica  v  CD Nacional
+23:00  Casa Pia AC  v  Rio Ave FC
+23:00  FC Porto  v  Santa Clara
+23:00  Marítimo M.  v  Sporting CP
+
+- Matchday 31
+23:00  FC Arouca  v  Académico
+23:00  CD Nacional  v  Casa Pia AC
+23:00  Santa Clara  v  Estoril Praia
+23:00  Sporting CP  v  Gil Vicente FC
+23:00  Rio Ave FC  v  Marítimo M.
+23:00  FC Famalicão  v  Moreirense FC
+23:00  Estrela Amadora  v  FC Porto
+23:00  SC Braga  v  SL Benfica
+23:00  FC Alverca  v  Vitória SC
+
+- Matchday 32
+23:00  Gil Vicente FC  v  FC Alverca
+23:00  Marítimo M.  v  Estrela Amadora
+23:00  Casa Pia AC  v  FC Arouca
+23:00  Académico  v  SC Braga
+23:00  FC Porto  v  FC Famalicão
+23:00  Moreirense FC  v  CD Nacional
+23:00  SL Benfica  v  Rio Ave FC
+23:00  Vitória SC  v  Santa Clara
+23:00  Estoril Praia  v  Sporting CP
+
+- Matchday 33
+23:00  FC Famalicão  v  Casa Pia AC
+23:00  FC Alverca  v  Estoril Praia
+23:00  FC Arouca  v  Gil Vicente FC
+23:00  SC Braga  v  Marítimo M.
+23:00  Académico  v  Moreirense FC
+23:00  CD Nacional  v  FC Porto
+23:00  Estrela Amadora  v  Santa Clara
+23:00  Sporting CP  v  SL Benfica
+23:00  Rio Ave FC  v  Vitória SC
+
+- Matchday 34
+23:00  Casa Pia AC  v  Académico
+23:00  Marítimo M.  v  FC Alverca
+23:00  Estoril Praia  v  Estrela Amadora
+23:00  SL Benfica  v  FC Arouca
+23:00  FC Porto  v  SC Braga
+23:00  Vitória SC  v  FC Famalicão
+23:00  Gil Vicente FC  v  CD Nacional
+23:00  Moreirense FC  v  Rio Ave FC
+23:00  Santa Clara  v  Sporting CP
+

@@ -1,0 +1,456 @@
+- Matchday 1
+16:30  Internazionale  v  Monza  4-1
+16:30  Udinese  v  Como  1-1
+18:45  Genoa  v  Napoli  0-2
+18:45  Parma  v  Cagliari  0-1
+16:30  Frosinone  v  Juventus  0-1
+16:30  Venezia  v  Lecce  0-2
+18:45  Atalanta  v  Sassuolo  2-1
+18:45  Torino  v  Milan  1-2
+16:30  Bologna  v  Lazio  0-1
+18:45  Roma  v  Fiorentina  4-0
+
+- Matchday 2
+18:45  Milan  v  Venezia  2-0
+16:30  Fiorentina  v  Frosinone  0-3
+16:30  Monza  v  Udinese  2-3
+16:30  Sassuolo  v  Torino  2-1
+18:45  Juventus  v  Parma  2-0
+16:30  Napoli  v  Como  1-2
+18:45  Cagliari  v  Internazionale  0-1
+18:45  Lazio  v  Genoa  1-0
+16:30  Lecce  v  Roma  0-4
+18:45  Atalanta  v  Bologna  1-0
+
+- Matchday 3
+18:45  Genoa  v  Como  1-4
+13:00  Fiorentina  v  Torino  1-2
+16:00  Internazionale  v  Napoli  3-2
+18:45  Roma  v  Atalanta  2-1
+13:00  Frosinone  v  Venezia  3-2
+13:00  Parma  v  Monza  1-1
+16:00  Bologna  v  Sassuolo  2-2
+18:45  Juventus  v  Milan  1-1
+16:30  Cagliari  v  Lecce  1-0
+18:45  Udinese  v  Lazio  1-2
+
+- Matchday 4
+18:45  Venezia  v  Fiorentina  2-4
+13:00  Genoa  v  Frosinone  1-1
+16:00  Lazio  v  Milan  2-2
+18:45  Atalanta  v  Cagliari  1-2
+13:00  Lecce  v  Monza  3-2
+16:00  Napoli  v  Bologna  1-0
+18:45  Sassuolo  v  Juventus  3-2
+16:30  Como  v  Parma  2-1
+16:30  Torino  v  Roma  0-2
+18:45  Internazionale  v  Udinese  5-3
+
+- Matchday 5
+18:45  Monza  v  Sassuolo  2-1
+13:00  Bologna  v  Torino  1-1
+13:00  Udinese  v  Cagliari  0-1
+16:00  Roma  v  Internazionale  2-2
+18:45  Venezia  v  Lazio  0-2
+10:30  Fiorentina  v  Napoli  1-1
+13:00  Frosinone  v  Como  2-0
+13:00  Parma  v  Genoa  2-1
+16:00  Juventus  v  Atalanta  2-0
+18:45  Milan  v  Lecce  3-0
+
+- Matchday 6
+13:00  Genoa  v  Fiorentina  2-1
+16:00  Internazionale  v  Parma  3-0
+18:45  Napoli  v  Frosinone  3-0
+10:30  Como  v  Roma  0-0
+13:00  Lazio  v  Monza  3-1
+13:00  Lecce  v  Bologna  1-2
+16:00  Sassuolo  v  Milan  1-1
+18:45  Cagliari  v  Juventus  1-1
+16:30  Atalanta  v  Venezia  3-1
+18:45  Torino  v  Udinese  2-1
+
+- Matchday 7
+18:45  Frosinone  v  Sassuolo  4-2
+13:00  Venezia  v  Napoli  1-0
+16:00  Bologna  v  Internazionale  1-3
+18:45  Roma  v  Genoa  2-0
+10:30  Udinese  v  Lecce  0-3
+13:00  Fiorentina  v  Como  1-3
+16:00  Milan  v  Atalanta  3-2
+18:45  Juventus  v  Lazio  0-3
+16:30  Monza  v  Cagliari  4-0
+18:45  Parma  v  Torino  0-3
+
+- Matchday 8
+18:45  Torino  v  Monza  3-2
+13:00  Cagliari  v  Bologna  0-2
+13:00  Como  v  Sassuolo  2-0
+16:00  Napoli  v  Roma  3-3
+18:45  Lazio  v  Parma  2-1
+11:30  Internazionale  v  Fiorentina  2-1
+14:00  Atalanta  v  Frosinone  4-4
+14:00  Genoa  v  Venezia  1-0
+17:00  Lecce  v  Juventus  0-2
+19:45  Udinese  v  Milan  0-2
+
+- Matchday 9
+17:30  Sassuolo  v  Lazio  2-6
+19:45  Roma  v  Cagliari  4-2
+19:45  Torino  v  Como  1-3
+17:30  Milan  v  Bologna  2-4
+17:30  Parma  v  Udinese  0-0
+17:30  Venezia  v  Internazionale  0-2
+19:45  Genoa  v  Juventus  2-0
+19:45  Monza  v  Napoli  1-4
+17:30  Frosinone  v  Lecce  5-1
+19:45  Fiorentina  v  Atalanta  2-2
+
+- Matchday 10
+14:00  Bologna  v  Monza  2-1
+17:00  Udinese  v  Roma  2-5
+19:45  Milan  v  Internazionale  3-1
+11:30  Como  v  Venezia  1-0
+14:00  Frosinone  v  Torino  2-0
+14:00  Lazio  v  Cagliari  2-1
+17:00  Lecce  v  Genoa  1-2
+19:45  Juventus  v  Napoli  2-0
+17:30  Sassuolo  v  Fiorentina  2-4
+19:45  Atalanta  v  Parma  0-3
+
+- Matchday 11
+19:45  Venezia  v  Udinese  2-1
+14:00  Cagliari  v  Frosinone  1-0
+14:00  Torino  v  Lecce  1-1
+17:00  Parma  v  Bologna  1-2
+19:45  Roma  v  Sassuolo  3-0
+11:30  Napoli  v  Lazio  1-1
+14:00  Genoa  v  Milan  1-2
+14:00  Monza  v  Atalanta  0-1
+17:00  Internazionale  v  Como  2-0
+19:45  Fiorentina  v  Juventus  2-2
+
+- Matchday 12
+14:00  Como  v  Cagliari                                     2-0
+14:00  Lazio  v  Lecce                                       3-0
+17:00  Parma  v  Roma                                        1-5
+19:45  Napoli  v  Torino                                     1-0
+11:30  Juventus  v  Venezia                                  4-0
+14:00  Bologna  v  Udinese
+14:00  Sassuolo  v  Genoa
+17:00  Milan  v  Frosinone
+19:45  Atalanta  v  Internazionale
+19:45  Monza  v  Fiorentina
+
+- Matchday 13
+19:45  Venezia  v  Bologna
+14:00  Frosinone  v  Parma
+17:00  Torino  v  Lazio
+19:45  Internazionale  v  Genoa
+11:30  Udinese  v  Fiorentina
+14:00  Sassuolo  v  Napoli
+17:00  Roma  v  Monza
+19:45  Como  v  Juventus
+17:30  Lecce  v  Atalanta
+19:45  Cagliari  v  Milan
+
+- Matchday 14
+19:45  Bologna  v  Roma
+14:00  Monza  v  Como
+17:00  Frosinone  v  Internazionale
+19:45  Napoli  v  Lecce
+11:30  Genoa  v  Torino
+14:00  Lazio  v  Atalanta
+17:00  Juventus  v  Udinese
+19:45  Milan  v  Parma
+17:30  Venezia  v  Sassuolo
+19:45  Fiorentina  v  Cagliari
+
+- Matchday 15
+19:45  Udinese  v  Frosinone
+14:00  Cagliari  v  Venezia
+17:00  Lecce  v  Sassuolo
+19:45  Como  v  Bologna
+11:30  Lazio  v  Roma
+14:00  Internazionale  v  Torino
+17:00  Parma  v  Fiorentina
+19:45  Napoli  v  Milan
+17:30  Atalanta  v  Genoa
+19:45  Juventus  v  Monza
+
+- Matchday 16
+17:30  Frosinone  v  Lazio
+19:45  Lecce  v  Internazionale
+14:00  Sassuolo  v  Parma
+17:00  Milan  v  Como
+19:45  Roma  v  Juventus
+11:30  Fiorentina  v  Bologna
+14:00  Torino  v  Cagliari
+14:00  Venezia  v  Monza
+17:00  Genoa  v  Udinese
+19:45  Atalanta  v  Napoli
+
+- Matchday 17
+11:30  Cagliari  v  Genoa
+14:00  Fiorentina  v  Lazio
+14:00  Torino  v  Venezia
+17:00  Roma  v  Frosinone
+19:45  Monza  v  Milan
+11:30  Internazionale  v  Sassuolo
+14:00  Como  v  Lecce
+14:00  Udinese  v  Atalanta
+17:00  Parma  v  Napoli
+19:45  Bologna  v  Juventus
+
+- Matchday 18
+17:30  Genoa  v  Monza
+17:30  Venezia  v  Roma
+19:45  Milan  v  Fiorentina
+11:30  Juventus  v  Torino
+14:00  Frosinone  v  Bologna
+14:00  Lecce  v  Parma
+17:00  Atalanta  v  Como
+19:45  Lazio  v  Internazionale
+17:30  Sassuolo  v  Udinese
+19:45  Napoli  v  Cagliari
+
+- Matchday 19
+14:00  Monza  v  Frosinone
+17:00  Roma  v  Milan
+19:45  Bologna  v  Genoa
+11:30  Como  v  Lazio
+14:00  Fiorentina  v  Lecce
+14:00  Parma  v  Venezia
+17:00  Torino  v  Atalanta
+19:45  Internazionale  v  Juventus
+17:30  Cagliari  v  Sassuolo
+19:45  Udinese  v  Napoli
+
+- Matchday 20
+00:00  Atalanta  v  Roma
+00:00  Cagliari  v  Como
+00:00  Juventus  v  Genoa
+00:00  Lazio  v  Bologna
+00:00  Lecce  v  Udinese
+00:00  Milan  v  Torino
+00:00  Napoli  v  Fiorentina
+00:00  Parma  v  Internazionale
+00:00  Sassuolo  v  Monza
+00:00  Venezia  v  Frosinone
+
+- Matchday 21
+00:00  Bologna  v  Atalanta
+00:00  Como  v  Napoli
+00:00  Fiorentina  v  Sassuolo
+00:00  Frosinone  v  Milan
+00:00  Genoa  v  Parma
+00:00  Internazionale  v  Venezia
+00:00  Juventus  v  Cagliari
+00:00  Lecce  v  Torino
+00:00  Monza  v  Lazio
+00:00  Roma  v  Udinese
+
+- Matchday 22
+00:00  Atalanta  v  Fiorentina
+00:00  Cagliari  v  Parma
+00:00  Genoa  v  Lecce
+00:00  Lazio  v  Venezia
+00:00  Milan  v  Juventus
+00:00  Monza  v  Roma
+00:00  Napoli  v  Internazionale
+00:00  Sassuolo  v  Como
+00:00  Torino  v  Frosinone
+00:00  Udinese  v  Bologna
+
+- Matchday 23
+00:00  Atalanta  v  Lazio
+00:00  Bologna  v  Milan
+00:00  Como  v  Monza
+00:00  Fiorentina  v  Udinese
+00:00  Internazionale  v  Cagliari
+00:00  Juventus  v  Sassuolo
+00:00  Lecce  v  Napoli
+00:00  Parma  v  Frosinone
+00:00  Roma  v  Torino
+00:00  Venezia  v  Genoa
+
+- Matchday 24
+00:00  Bologna  v  Como
+00:00  Cagliari  v  Lazio
+00:00  Frosinone  v  Fiorentina
+00:00  Genoa  v  Atalanta
+00:00  Internazionale  v  Milan
+00:00  Monza  v  Lecce
+00:00  Napoli  v  Juventus
+00:00  Roma  v  Parma
+00:00  Torino  v  Sassuolo
+00:00  Udinese  v  Venezia
+
+- Matchday 25
+00:00  Atalanta  v  Monza
+00:00  Como  v  Torino
+00:00  Fiorentina  v  Internazionale
+00:00  Juventus  v  Bologna
+00:00  Lazio  v  Napoli
+00:00  Lecce  v  Frosinone
+00:00  Milan  v  Genoa
+00:00  Sassuolo  v  Roma
+00:00  Udinese  v  Parma
+00:00  Venezia  v  Cagliari
+
+- Matchday 26
+00:00  Bologna  v  Lecce
+00:00  Cagliari  v  Udinese
+00:00  Como  v  Milan
+00:00  Frosinone  v  Napoli
+00:00  Genoa  v  Lazio
+00:00  Internazionale  v  Atalanta
+00:00  Monza  v  Juventus
+00:00  Parma  v  Sassuolo
+00:00  Roma  v  Venezia
+00:00  Torino  v  Fiorentina
+
+- Matchday 27
+00:00  Atalanta  v  Torino
+00:00  Fiorentina  v  Venezia
+00:00  Juventus  v  Roma
+00:00  Lazio  v  Frosinone
+00:00  Lecce  v  Como
+00:00  Milan  v  Cagliari
+00:00  Monza  v  Genoa
+00:00  Napoli  v  Parma
+00:00  Sassuolo  v  Bologna
+00:00  Udinese  v  Internazionale
+
+- Matchday 28
+00:00  Bologna  v  Napoli
+00:00  Cagliari  v  Fiorentina
+00:00  Como  v  Udinese
+00:00  Frosinone  v  Monza
+00:00  Genoa  v  Roma
+00:00  Lazio  v  Juventus
+00:00  Milan  v  Sassuolo
+00:00  Parma  v  Lecce
+00:00  Torino  v  Internazionale
+00:00  Venezia  v  Atalanta
+
+- Matchday 29
+00:00  Atalanta  v  Milan
+00:00  Fiorentina  v  Genoa
+00:00  Internazionale  v  Frosinone
+00:00  Juventus  v  Como
+00:00  Monza  v  Bologna
+00:00  Napoli  v  Venezia
+00:00  Parma  v  Lazio
+00:00  Roma  v  Lecce
+00:00  Sassuolo  v  Cagliari
+00:00  Udinese  v  Torino
+
+- Matchday 30
+00:00  Cagliari  v  Napoli
+00:00  Como  v  Fiorentina
+00:00  Frosinone  v  Udinese
+00:00  Genoa  v  Internazionale
+00:00  Lecce  v  Lazio
+00:00  Milan  v  Monza
+00:00  Roma  v  Bologna
+00:00  Sassuolo  v  Atalanta
+00:00  Torino  v  Juventus
+00:00  Venezia  v  Parma
+
+- Matchday 31
+00:00  Bologna  v  Venezia
+00:00  Cagliari  v  Atalanta
+00:00  Fiorentina  v  Milan
+00:00  Frosinone  v  Genoa
+00:00  Internazionale  v  Roma
+00:00  Juventus  v  Lecce
+00:00  Lazio  v  Torino
+00:00  Napoli  v  Sassuolo
+00:00  Parma  v  Como
+00:00  Udinese  v  Monza
+
+- Matchday 32
+00:00  Atalanta  v  Udinese
+00:00  Bologna  v  Cagliari
+00:00  Como  v  Frosinone
+00:00  Fiorentina  v  Parma
+00:00  Milan  v  Napoli
+00:00  Monza  v  Internazionale
+00:00  Roma  v  Lazio
+00:00  Sassuolo  v  Lecce
+00:00  Torino  v  Genoa
+00:00  Venezia  v  Juventus
+
+- Matchday 33
+00:00  Cagliari  v  Monza
+00:00  Frosinone  v  Roma
+00:00  Genoa  v  Sassuolo
+00:00  Internazionale  v  Bologna
+00:00  Juventus  v  Fiorentina
+00:00  Lazio  v  Como
+00:00  Lecce  v  Milan
+00:00  Napoli  v  Udinese
+00:00  Parma  v  Atalanta
+00:00  Venezia  v  Torino
+
+- Matchday 34
+00:00  Atalanta  v  Juventus
+00:00  Bologna  v  Fiorentina
+00:00  Como  v  Internazionale
+00:00  Lecce  v  Cagliari
+00:00  Milan  v  Lazio
+00:00  Monza  v  Venezia
+00:00  Roma  v  Napoli
+00:00  Sassuolo  v  Frosinone
+00:00  Torino  v  Parma
+00:00  Udinese  v  Genoa
+
+- Matchday 35
+00:00  Fiorentina  v  Roma
+00:00  Frosinone  v  Atalanta
+00:00  Genoa  v  Cagliari
+00:00  Internazionale  v  Lecce
+00:00  Lazio  v  Sassuolo
+00:00  Napoli  v  Monza
+00:00  Parma  v  Milan
+00:00  Torino  v  Bologna
+00:00  Udinese  v  Juventus
+00:00  Venezia  v  Como
+
+- Matchday 36
+00:00  Bologna  v  Frosinone
+00:00  Cagliari  v  Torino
+00:00  Como  v  Atalanta
+00:00  Juventus  v  Internazionale
+00:00  Lazio  v  Udinese
+00:00  Lecce  v  Fiorentina
+00:00  Milan  v  Roma
+00:00  Monza  v  Parma
+00:00  Napoli  v  Genoa
+00:00  Sassuolo  v  Venezia
+
+- Matchday 37
+00:00  Atalanta  v  Lecce
+00:00  Fiorentina  v  Monza
+00:00  Frosinone  v  Cagliari
+00:00  Genoa  v  Bologna
+00:00  Internazionale  v  Lazio
+00:00  Parma  v  Juventus
+00:00  Roma  v  Como
+00:00  Torino  v  Napoli
+00:00  Udinese  v  Sassuolo
+00:00  Venezia  v  Milan
+
+- Matchday 38
+00:00  Bologna  v  Parma
+00:00  Cagliari  v  Roma
+00:00  Como  v  Genoa
+00:00  Juventus  v  Frosinone
+00:00  Lazio  v  Fiorentina
+00:00  Lecce  v  Venezia
+00:00  Milan  v  Udinese
+00:00  Monza  v  Torino
+00:00  Napoli  v  Atalanta
+00:00  Sassuolo  v  Internazionale
+

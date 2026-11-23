@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Futbol:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Futbol_jar</output-path>
+    <root id="archive" name="Futbol.jar">
+      <element id="module-output" name="Futbol" />
+    </root>
+  </artifact>
+</component>

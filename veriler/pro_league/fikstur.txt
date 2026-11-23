@@ -1,0 +1,372 @@
+- Matchday 1
+21:45  Club Brugge KV  v  Kortrijk  3-0
+19:15  St. Liege  v  Cercle Brugge KSV  2-2
+21:45  Westerlo  v  Royale Union SG  1-5
+21:45  St. Truiden  v  Lommel SK  1-1
+14:30  Gent  v  KV Mechelen  2-0
+17:00  Waregem  v  Genk  2-1
+17:00  Charleroi  v  Leuven  3-1
+19:30  Anderlecht  v  RAAL La Louviere  2-1
+20:15  Antwerp  v  Beveren  2-1
+
+- Matchday 2
+21:45  Cercle Brugge KSV  v  St. Truiden  3-3
+17:00  Royale Union SG  v  Waregem  0-0
+19:15  Kortrijk  v  Antwerp  0-3
+21:45  Leuven  v  Club Brugge KV  0-3
+21:45  Genk  v  Westerlo  3-2
+14:30  Beveren  v  Anderlecht  1-0
+17:00  RAAL La Louviere  v  Gent  1-2
+19:30  KV Mechelen  v  St. Liege  3-3
+20:15  Lommel SK  v  Charleroi  0-1
+
+- Matchday 3
+21:45  St. Liege  v  RAAL La Louviere  2-0
+17:00  Waregem  v  Beveren  4-0
+19:15  Charleroi  v  KV Mechelen  2-0
+21:45  Antwerp  v  Genk  4-4
+17:00  Lommel SK  v  Westerlo  4-0
+19:30  Club Brugge KV  v  Cercle Brugge KSV  1-0
+21:30  St. Truiden  v  Royale Union SG  0-3
+21:30  Gent  v  Leuven  1-0
+21:30  Anderlecht  v  Kortrijk  1-0
+
+- Matchday 4
+21:45  Genk  v  Beveren  4-0
+17:00  RAAL La Louviere  v  KV Mechelen  2-2
+19:15  Kortrijk  v  Charleroi  1-3
+21:45  Leuven  v  St. Liege  1-2
+21:45  Cercle Brugge KSV  v  Lommel SK  0-1
+14:30  Gent  v  Club Brugge KV  2-1
+17:00  Antwerp  v  St. Truiden  1-4
+19:30  Royale Union SG  v  Anderlecht  3-0
+20:15  Westerlo  v  Waregem  2-2
+
+- Matchday 5
+21:45  Lommel SK  v  Club Brugge KV  0-1
+17:00  Charleroi  v  Royale Union SG  2-3
+19:15  KV Mechelen  v  Westerlo  0-4
+21:45  St. Truiden  v  RAAL La Louviere  4-0
+21:45  St. Liege  v  Antwerp  1-0
+14:30  Cercle Brugge KSV  v  Gent  0-3
+17:00  Kortrijk  v  Waregem  0-2
+19:30  Anderlecht  v  Genk  0-0
+20:15  Beveren  v  Leuven  3-0
+
+- Matchday 6
+21:45  KV Mechelen  v  Anderlecht  0-1
+17:00  Beveren  v  St. Truiden  2-0
+19:15  Westerlo  v  St. Liege  4-2
+21:45  Royale Union SG  v  Lommel SK  5-0
+21:45  Leuven  v  Cercle Brugge KSV  1-1
+14:30  Club Brugge KV  v  Antwerp  3-1
+17:00  Genk  v  Gent  1-1
+19:30  Waregem  v  Charleroi  0-1
+20:15  RAAL La Louviere  v  Kortrijk  3-0
+
+- Matchday 7
+21:45  Gent  v  St. Liege  2-1
+17:00  Leuven  v  RAAL La Louviere  2-0
+19:15  Charleroi  v  Cercle Brugge KSV  3-2
+21:45  Lommel SK  v  KV Mechelen  0-0
+21:45  Anderlecht  v  Waregem  3-0
+14:30  Antwerp  v  Royale Union SG  0-2
+17:00  St. Truiden  v  Westerlo  0-2
+19:30  Club Brugge KV  v  Genk  3-0
+20:15  Kortrijk  v  Beveren  1-0
+
+- Matchday 8
+21:45  Beveren  v  Lommel SK  1-3
+17:00  Cercle Brugge KSV  v  Anderlecht  1-2
+19:15  RAAL La Louviere  v  Club Brugge KV  1-4
+21:45  Waregem  v  Gent  0-2
+21:45  Genk  v  Kortrijk  3-0
+14:30  St. Liege  v  Charleroi  0-1
+17:00  Royale Union SG  v  Leuven  1-1
+19:30  Westerlo  v  Antwerp  5-1
+20:15  KV Mechelen  v  St. Truiden  4-3
+
+- Matchday 9
+17:00  Antwerp  v  Charleroi  3-0
+19:15  Leuven  v  Lommel SK  2-2
+21:45  Westerlo  v  Beveren  4-4
+21:45  RAAL La Louviere  v  Waregem  3-0
+15:30  Genk  v  St. Liege  2-1
+18:00  Club Brugge KV  v  St. Truiden  3-2
+20:30  Gent  v  Anderlecht  4-0
+21:15  Royale Union SG  v  Cercle Brugge KSV  5-2
+22:30  Kortrijk  v  KV Mechelen  1-3
+
+- Matchday 10
+22:45  Waregem  v  Club Brugge KV  2-4
+18:00  KV Mechelen  v  Genk  1-0
+20:15  St. Liege  v  Kortrijk  1-1
+22:45  Beveren  v  Royale Union SG  1-2
+22:45  Anderlecht  v  Westerlo  4-1
+15:30  Cercle Brugge KSV  v  Antwerp  2-1
+18:00  St. Truiden  v  Leuven  1-2
+20:30  Lommel SK  v  Gent  2-0
+21:15  Charleroi  v  RAAL La Louviere  5-2
+
+- Matchday 11
+22:45  St. Liege  v  Beveren  3-0
+18:00  Westerlo  v  Charleroi  1-5
+20:15  Leuven  v  KV Mechelen  2-0
+22:45  RAAL La Louviere  v  Cercle Brugge KSV  0-1
+22:45  Antwerp  v  Lommel SK  2-2
+15:30  Club Brugge KV  v  Anderlecht  1-1
+18:00  Gent  v  Kortrijk  1-0
+20:30  Royale Union SG  v  Genk  1-0
+21:15  St. Truiden  v  Waregem  4-1
+
+- Matchday 12
+22:45  Cercle Brugge KSV  v  Westerlo  1-0
+18:00  Charleroi  v  St. Truiden  2-2
+22:45  KV Mechelen  v  Club Brugge KV
+22:45  Waregem  v  Antwerp
+15:30  Beveren  v  Gent
+18:00  Kortrijk  v  Royale Union SG
+20:30  Anderlecht  v  Leuven
+21:15  Lommel SK  v  St. Liege
+
+- Matchday 13
+22:45  Leuven  v  Kortrijk
+18:00  Westerlo  v  RAAL La Louviere
+20:15  Cercle Brugge KSV  v  KV Mechelen
+22:45  Charleroi  v  Beveren
+22:45  Lommel SK  v  Waregem
+15:30  St. Truiden  v  Genk
+18:00  Antwerp  v  Anderlecht
+20:30  St. Liege  v  Club Brugge KV
+21:15  Royale Union SG  v  Gent
+
+- Matchday 14
+22:45  Genk  v  Leuven
+18:00  Kortrijk  v  Lommel SK
+20:15  RAAL La Louviere  v  Antwerp
+22:45  Beveren  v  Cercle Brugge KSV
+22:45  Waregem  v  St. Liege
+15:30  Anderlecht  v  Charleroi
+18:00  Club Brugge KV  v  Westerlo
+20:30  KV Mechelen  v  Royale Union SG
+21:15  Gent  v  St. Truiden
+
+- Matchday 15
+22:45  Antwerp  v  Leuven
+18:00  Beveren  v  KV Mechelen
+20:15  Cercle Brugge KSV  v  Waregem
+22:45  Charleroi  v  Genk
+22:45  Lommel SK  v  RAAL La Louviere
+15:30  St. Liege  v  Anderlecht
+18:00  St. Truiden  v  Kortrijk
+20:30  Royale Union SG  v  Club Brugge KV
+21:15  Westerlo  v  Gent
+
+- Matchday 16
+15:30  Club Brugge KV  v  Charleroi
+18:00  Kortrijk  v  Cercle Brugge KSV
+20:15  Leuven  v  Westerlo
+22:45  RAAL La Louviere  v  Beveren
+22:45  St. Liege  v  Royale Union SG
+15:30  Anderlecht  v  St. Truiden
+18:00  Genk  v  Lommel SK
+20:30  Gent  v  Antwerp
+21:15  KV Mechelen  v  Waregem
+
+- Matchday 17
+Beveren  v  Club Brugge KV
+Lommel SK  v  Anderlecht
+Royale Union SG  v  RAAL La Louviere
+Antwerp  v  KV Mechelen
+Westerlo  v  Kortrijk
+St. Truiden  v  St. Liege
+Cercle Brugge KSV  v  Genk
+Charleroi  v  Gent
+Waregem  v  Leuven
+
+- Matchday 18
+Charleroi  v  Antwerp
+Club Brugge KV  v  RAAL La Louviere
+Genk  v  Waregem
+Gent  v  Cercle Brugge KSV
+Kortrijk  v  Anderlecht
+KV Mechelen  v  Lommel SK
+Leuven  v  St. Truiden
+Royale Union SG  v  Beveren
+St. Liege  v  Westerlo
+
+- Matchday 19
+Anderlecht  v  Gent
+Antwerp  v  Club Brugge KV
+Beveren  v  Kortrijk
+Cercle Brugge KSV  v  St. Liege
+Lommel SK  v  Leuven
+RAAL La Louviere  v  Charleroi
+St. Truiden  v  KV Mechelen
+Waregem  v  Royale Union SG
+Westerlo  v  Genk
+
+- Matchday 20
+Charleroi  v  Westerlo
+Club Brugge KV  v  St. Liege
+Genk  v  Antwerp
+Gent  v  Beveren
+Kortrijk  v  RAAL La Louviere
+KV Mechelen  v  Cercle Brugge KSV
+Leuven  v  Anderlecht
+Royale Union SG  v  St. Truiden
+Waregem  v  Lommel SK
+
+- Matchday 21
+Anderlecht  v  KV Mechelen
+Antwerp  v  Kortrijk
+Beveren  v  Genk
+Cercle Brugge KSV  v  Charleroi
+Lommel SK  v  Royale Union SG
+RAAL La Louviere  v  Leuven
+St. Liege  v  Waregem
+St. Truiden  v  Gent
+Westerlo  v  Club Brugge KV
+
+- Matchday 22
+Charleroi  v  St. Liege
+Club Brugge KV  v  Lommel SK
+Gent  v  RAAL La Louviere
+Kortrijk  v  Genk
+KV Mechelen  v  Beveren
+Leuven  v  Antwerp
+Royale Union SG  v  Westerlo
+St. Truiden  v  Cercle Brugge KSV
+Waregem  v  Anderlecht
+
+- Matchday 23
+Anderlecht  v  Club Brugge KV
+Antwerp  v  Waregem
+Beveren  v  Charleroi
+Cercle Brugge KSV  v  Leuven
+Genk  v  Royale Union SG
+Lommel SK  v  Kortrijk
+RAAL La Louviere  v  St. Truiden
+St. Liege  v  Gent
+Westerlo  v  KV Mechelen
+
+- Matchday 24
+Club Brugge KV  v  Beveren
+Gent  v  Charleroi
+KV Mechelen  v  Kortrijk
+Leuven  v  Genk
+RAAL La Louviere  v  Lommel SK
+Royale Union SG  v  St. Liege
+St. Truiden  v  Antwerp
+Waregem  v  Cercle Brugge KSV
+Westerlo  v  Anderlecht
+
+- Matchday 25
+Anderlecht  v  Lommel SK
+Antwerp  v  RAAL La Louviere
+Beveren  v  Westerlo
+Cercle Brugge KSV  v  Royale Union SG
+Charleroi  v  Club Brugge KV
+Genk  v  St. Truiden
+Gent  v  Waregem
+Kortrijk  v  Leuven
+St. Liege  v  KV Mechelen
+
+- Matchday 26
+Anderlecht  v  St. Liege
+Club Brugge KV  v  Gent
+KV Mechelen  v  Charleroi
+Leuven  v  Royale Union SG
+Lommel SK  v  Antwerp
+RAAL La Louviere  v  Genk
+St. Truiden  v  Beveren
+Waregem  v  Kortrijk
+Westerlo  v  Cercle Brugge KSV
+
+- Matchday 27
+Beveren  v  Antwerp
+Cercle Brugge KSV  v  RAAL La Louviere
+Charleroi  v  Lommel SK
+Genk  v  Anderlecht
+Gent  v  Westerlo
+Kortrijk  v  Club Brugge KV
+Leuven  v  Waregem
+Royale Union SG  v  KV Mechelen
+St. Liege  v  St. Truiden
+
+- Matchday 28
+Anderlecht  v  Beveren
+Antwerp  v  Cercle Brugge KSV
+Club Brugge KV  v  Leuven
+Kortrijk  v  St. Liege
+KV Mechelen  v  Gent
+Lommel SK  v  Genk
+RAAL La Louviere  v  Royale Union SG
+St. Truiden  v  Charleroi
+Waregem  v  Westerlo
+
+- Matchday 29
+Beveren  v  Waregem
+Cercle Brugge KSV  v  Kortrijk
+Charleroi  v  Anderlecht
+Genk  v  Club Brugge KV
+Gent  v  Lommel SK
+KV Mechelen  v  RAAL La Louviere
+Royale Union SG  v  Antwerp
+St. Liege  v  Leuven
+Westerlo  v  St. Truiden
+
+- Matchday 30
+Anderlecht  v  Cercle Brugge KSV
+Antwerp  v  Gent
+Club Brugge KV  v  Royale Union SG
+Genk  v  Charleroi
+Kortrijk  v  Westerlo
+Leuven  v  Beveren
+Lommel SK  v  St. Truiden
+RAAL La Louviere  v  St. Liege
+Waregem  v  KV Mechelen
+
+- Matchday 31
+Beveren  v  RAAL La Louviere
+Cercle Brugge KSV  v  Club Brugge KV
+Charleroi  v  Waregem
+Gent  v  Genk
+KV Mechelen  v  Antwerp
+Royale Union SG  v  Kortrijk
+St. Liege  v  Lommel SK
+St. Truiden  v  Anderlecht
+Westerlo  v  Leuven
+
+- Matchday 32
+Anderlecht  v  Royale Union SG
+Antwerp  v  St. Liege
+Club Brugge KV  v  KV Mechelen
+Genk  v  Cercle Brugge KSV
+Kortrijk  v  Gent
+Leuven  v  Charleroi
+Lommel SK  v  Beveren
+RAAL La Louviere  v  Westerlo
+Waregem  v  St. Truiden
+
+- Matchday 33
+Anderlecht  v  Antwerp
+Cercle Brugge KSV  v  Beveren
+Charleroi  v  Kortrijk
+Gent  v  Royale Union SG
+KV Mechelen  v  Leuven
+St. Liege  v  Genk
+St. Truiden  v  Club Brugge KV
+Waregem  v  RAAL La Louviere
+Westerlo  v  Lommel SK
+
+- Matchday 34
+Antwerp  v  Westerlo
+Beveren  v  St. Liege
+Club Brugge KV  v  Waregem
+Genk  v  KV Mechelen
+Kortrijk  v  St. Truiden
+Leuven  v  Gent
+Lommel SK  v  Cercle Brugge KSV
+RAAL La Louviere  v  Anderlecht
+Royale Union SG  v  Charleroi

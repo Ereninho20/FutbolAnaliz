@@ -1,0 +1,264 @@
+- Matchday 1
+19:00  Dundee United  v  Rangers  1-1
+14:00  Falkirk  v  St. Mirren  0-2
+16:30  Aberdeen  v  Heart of Midlothian  2-1
+13:00  St. Johnstone  v  Kilmarnock  4-3
+15:30  Hibernian  v  Motherwell  1-2
+18:30  Celtic  v  Dundee  1-0
+
+- Matchday 2
+14:00  Dundee  v  Aberdeen  2-0
+14:00  St. Mirren  v  St. Johnstone  1-0
+12:30  Kilmarnock  v  Celtic  1-5
+14:00  Heart of Midlothian  v  Dundee United  4-0
+14:00  Motherwell  v  Falkirk  0-0
+15:00  Rangers  v  Hibernian  1-2
+
+- Matchday 3
+16:45  Dundee United  v  Dundee  0-2
+18:45  Rangers  v  St. Mirren  1-0
+19:00  St. Johnstone  v  Celtic  0-1
+18:45  Falkirk  v  Heart of Midlothian  2-1
+18:45  Hibernian  v  Kilmarnock  0-1
+18:45  Motherwell  v  Aberdeen  0-4
+
+- Matchday 4
+14:00  Celtic  v  Falkirk  2-1
+14:00  Heart of Midlothian  v  St. Johnstone  2-1
+14:00  Kilmarnock  v  Dundee United  0-4
+11:00  Aberdeen  v  Rangers  0-1
+14:00  Dundee  v  Hibernian  1-2
+14:00  St. Mirren  v  Motherwell  3-3
+
+- Matchday 5
+18:45  Celtic  v  Aberdeen  3-0
+18:45  Dundee  v  St. Johnstone  1-1
+18:45  Kilmarnock  v  St. Mirren  0-1
+18:45  Motherwell  v  Dundee United  3-0
+19:00  Falkirk  v  Rangers  1-2
+18:45  Hibernian  v  Heart of Midlothian  1-3
+
+- Matchday 6
+14:00  Aberdeen  v  Kilmarnock  0-0
+14:00  Dundee United  v  Falkirk  1-1
+14:00  Rangers  v  Motherwell  1-0
+19:00  St. Mirren  v  Celtic  1-2
+14:00  Heart of Midlothian  v  Dundee  2-1
+14:00  St. Johnstone  v  Hibernian  2-1
+
+- Matchday 7
+14:00  Dundee  v  Motherwell  2-1
+14:00  Hibernian  v  Aberdeen  1-1
+14:00  St. Johnstone  v  Falkirk  1-1
+14:00  St. Mirren  v  Dundee United  0-3
+16:45  Kilmarnock  v  Heart of Midlothian  1-1
+11:00  Celtic  v  Rangers  0-1
+
+- Matchday 8
+14:00  Dundee United  v  Hibernian  1-0
+14:00  Falkirk  v  Dundee  1-2
+14:00  Heart of Midlothian  v  St. Mirren  5-0
+14:00  Rangers  v  Kilmarnock  3-1
+11:00  Motherwell  v  Celtic  0-2
+13:00  Aberdeen  v  St. Johnstone  0-1
+
+- Matchday 9
+14:00  Aberdeen  v  St. Mirren  3-1
+14:00  Hibernian  v  Falkirk  1-2
+14:00  Kilmarnock  v  Motherwell  3-2
+14:00  St. Johnstone  v  Dundee United  1-1
+19:00  Dundee  v  Rangers  2-2
+14:00  Celtic  v  Heart of Midlothian  7-1
+
+- Matchday 10
+14:00  Dundee United  v  Aberdeen  3-2
+14:00  Falkirk  v  Kilmarnock  3-0
+14:00  Rangers  v  St. Johnstone  4-0
+14:00  St. Mirren  v  Dundee  2-1
+12:00  Hibernian  v  Celtic  1-2
+14:00  Motherwell  v  Heart of Midlothian  0-2
+
+- Matchday 11
+19:45  Aberdeen  v  Falkirk  0-1
+19:45  Celtic  v  Dundee United  2-2
+19:45  Dundee  v  Kilmarnock  3-1
+19:45  St. Johnstone  v  Motherwell  2-2
+19:45  St. Mirren  v  Hibernian  1-1
+20:00  Heart of Midlothian  v  Rangers  2-2
+
+- Matchday 12
+15:00  Kilmarnock  v  St. Johnstone  2-2
+15:00  Motherwell  v  St. Mirren  1-0
+13:00  Falkirk  v  Celtic  2-0
+19:45  Hibernian  v  Dundee                                  0-4
+20:00  Rangers  v  Aberdeen
+19:45  Dundee United  v  Heart of Midlothian                 0-8
+
+- Matchday 13
+15:00  Dundee United  v  Motherwell  1-1
+15:00  St. Johnstone  v  Dundee  2-1
+17:45  Aberdeen  v  Hibernian  0-4
+20:00  St. Mirren  v  Rangers  0-2
+15:00  Heart of Midlothian  v  Falkirk  2-5
+16:00  Celtic  v  Kilmarnock  1-0
+
+- Matchday 14
+15:00  Celtic  v  St. Mirren                                 4-1
+15:00  Falkirk  v  St. Johnstone                             2-1
+15:00  Hibernian  v  Dundee United                           0-4
+15:00  Kilmarnock  v  Aberdeen                               2-4
+17:45  Dundee  v  Heart of Midlothian                        0-8
+20:00  Motherwell  v  Rangers                                1-2
+
+- Matchday 15
+15:00  Aberdeen  v  Dundee
+15:00  Dundee United  v  St. Johnstone
+15:00  Rangers  v  Falkirk
+15:00  St. Mirren  v  Kilmarnock
+17:45  Motherwell  v  Hibernian
+15:00  Heart of Midlothian  v  Celtic
+
+- Matchday 16
+19:45  Dundee  v  Celtic
+19:45  Falkirk  v  Motherwell
+19:45  Heart of Midlothian  v  Aberdeen
+19:45  Kilmarnock  v  Hibernian
+19:45  Rangers  v  Dundee United
+19:45  St. Johnstone  v  St. Mirren
+
+- Matchday 17
+15:00  Aberdeen  v  Dundee United
+15:00  Celtic  v  St. Johnstone
+15:00  Dundee  v  Falkirk
+15:00  Motherwell  v  Kilmarnock
+17:30  St. Mirren  v  Heart of Midlothian
+20:00  Hibernian  v  Rangers
+
+- Matchday 18
+15:00  Dundee United  v  St. Mirren
+15:00  Falkirk  v  Aberdeen
+15:00  Kilmarnock  v  Dundee
+15:00  Heart of Midlothian  v  Motherwell
+19:45  Celtic  v  Hibernian
+20:00  St. Johnstone  v  Rangers
+
+- Matchday 19
+15:00  Dundee United  v  Kilmarnock
+15:00  Hibernian  v  St. Johnstone
+15:00  Motherwell  v  Dundee
+15:00  St. Mirren  v  Falkirk
+12:00  Aberdeen  v  Celtic
+14:30  Rangers  v  Heart of Midlothian
+
+- Matchday 20
+15:00  Celtic  v  Motherwell
+15:00  Dundee  v  St. Mirren
+15:00  Falkirk  v  Dundee United
+15:00  St. Johnstone  v  Aberdeen
+17:45  Kilmarnock  v  Rangers
+12:00  Heart of Midlothian  v  Hibernian
+
+- Matchday 21
+19:45  Aberdeen  v  Motherwell
+19:45  Dundee United  v  Celtic
+19:45  Hibernian  v  St. Mirren
+19:45  Kilmarnock  v  Falkirk
+19:45  Rangers  v  Dundee
+19:45  St. Johnstone  v  Heart of Midlothian
+
+- Matchday 22
+12:30  Dundee  v  Dundee United
+15:00  Falkirk  v  Hibernian
+15:00  Heart of Midlothian  v  Kilmarnock
+15:00  Motherwell  v  St. Johnstone
+12:00  Rangers  v  Celtic
+14:30  St. Mirren  v  Aberdeen
+
+- Matchday 23
+15:00  Aberdeen  v  Heart of Midlothian
+15:00  Celtic  v  Dundee
+15:00  Hibernian  v  Motherwell
+15:00  Kilmarnock  v  St. Mirren
+15:00  St. Johnstone  v  Falkirk
+17:30  Dundee United  v  Rangers
+
+- Matchday 24
+15:00  Dundee  v  Aberdeen
+15:00  Falkirk  v  Heart of Midlothian
+15:00  Hibernian  v  Kilmarnock
+15:00  Motherwell  v  Dundee United
+15:00  Rangers  v  St. Johnstone
+15:00  St. Mirren  v  Celtic
+
+- Matchday 25
+15:00  Aberdeen  v  Rangers
+15:00  Dundee  v  Hibernian
+15:00  Heart of Midlothian  v  St. Mirren
+15:00  Kilmarnock  v  Motherwell
+15:00  St. Johnstone  v  Dundee United
+15:00  Celtic  v  Falkirk
+
+- Matchday 26
+19:45  Aberdeen  v  Falkirk
+19:45  Dundee United  v  Hibernian
+19:45  Heart of Midlothian  v  Dundee
+19:45  Motherwell  v  Celtic
+19:45  Rangers  v  Kilmarnock
+19:45  St. Mirren  v  St. Johnstone
+
+- Matchday 27
+15:00  Celtic  v  Heart of Midlothian
+15:00  Dundee  v  St. Johnstone
+15:00  Falkirk  v  Rangers
+15:00  Hibernian  v  Aberdeen
+15:00  Kilmarnock  v  Dundee United
+15:00  St. Mirren  v  Motherwell
+
+- Matchday 28
+15:00  Dundee United  v  Aberdeen
+15:00  Falkirk  v  Dundee
+15:00  Hibernian  v  Celtic
+15:00  Motherwell  v  Heart of Midlothian
+15:00  Rangers  v  St. Mirren
+15:00  St. Johnstone  v  Kilmarnock
+
+- Matchday 29
+15:00  Aberdeen  v  St. Johnstone
+15:00  Celtic  v  Rangers
+15:00  Dundee  v  Kilmarnock
+15:00  Heart of Midlothian  v  Dundee United
+15:00  Motherwell  v  Falkirk
+15:00  St. Mirren  v  Hibernian
+
+- Matchday 30
+15:00  Aberdeen  v  St. Mirren
+15:00  Dundee United  v  Dundee
+15:00  Hibernian  v  Falkirk
+15:00  Kilmarnock  v  Heart of Midlothian
+15:00  Rangers  v  Motherwell
+15:00  St. Johnstone  v  Celtic
+
+- Matchday 31
+15:00  Celtic  v  Aberdeen
+15:00  Dundee  v  Motherwell
+15:00  Falkirk  v  Kilmarnock
+15:00  Heart of Midlothian  v  Rangers
+15:00  St. Johnstone  v  Hibernian
+15:00  St. Mirren  v  Dundee United
+
+- Matchday 32
+14:00  Dundee United  v  Falkirk
+14:00  Heart of Midlothian  v  St. Johnstone
+14:00  Kilmarnock  v  Celtic
+14:00  Motherwell  v  Aberdeen
+14:00  Rangers  v  Hibernian
+14:00  St. Mirren  v  Dundee
+
+- Matchday 33
+14:00  Aberdeen  v  Kilmarnock
+14:00  Celtic  v  Dundee United
+14:00  Dundee  v  Rangers
+14:00  Falkirk  v  St. Mirren
+14:00  Hibernian  v  Heart of Midlothian
+14:00  St. Johnstone  v  Motherwell
+

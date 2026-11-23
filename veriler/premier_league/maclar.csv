@@ -1,0 +1,108 @@
+Tarih,EvSahibi,Deplasman,EvGol,DepGol,EvSut,DepSut,EvIsabetliSut,DepIsabetliSut,EvKorner,DepKorner
+Fri Aug 21 2026,Arsenal,Coventry City,3,0,21,8,9,3,8,4
+Sat Aug 22 2026,Hull City,Manchester United,2,0,15,10,6,4,5,6
+Sat Aug 22 2026,Ipswich Town,Sunderland,2,1,15,10,6,4,5,4
+Sat Aug 22 2026,Nottingham Forest,Leeds United,0,1,11,12,4,5,6,5
+Sat Aug 22 2026,Everton,Crystal Palace,2,0,15,10,6,4,5,5
+Sat Aug 22 2026,Brentford,Tottenham Hotspur,3,0,19,12,8,5,6,6
+Sun Aug 23 2026,Manchester City,AFC Bournemouth,2,1,19,12,8,5,8,5
+Sun Aug 23 2026,Brighton & Hove Albion,Aston Villa,4,0,23,10,10,4,7,6
+Sun Aug 23 2026,Newcastle United,Liverpool,2,2,17,16,7,7,7,7
+Mon Aug 24 2026,Fulham,Chelsea,2,3,17,18,7,8,6,6
+Fri Aug 28 2026,Crystal Palace,Manchester City,1,4,13,22,5,10,6,7
+Sat Aug 29 2026,Liverpool,Nottingham Forest,2,2,19,14,8,6,8,5
+Sat Aug 29 2026,AFC Bournemouth,Everton,1,1,15,12,6,5,6,4
+Sat Aug 29 2026,Coventry City,Hull City,0,1,11,10,4,4,5,4
+Sat Aug 29 2026,Tottenham Hotspur,Newcastle United,0,2,13,16,5,7,7,6
+Sun Aug 30 2026,Sunderland,Fulham,1,0,13,10,5,4,5,5
+Sun Aug 30 2026,Chelsea,Brighton & Hove Albion,4,3,23,18,10,8,7,6
+Sun Aug 30 2026,Leeds United,Brentford,1,1,13,12,5,5,5,5
+Sun Aug 30 2026,Manchester United,Ipswich Town,5,2,25,14,11,6,7,4
+Mon Aug 31 2026,Aston Villa,Arsenal,0,1,13,14,5,6,7,7
+Fri Sep 4 2026,Ipswich Town,Liverpool,0,2,11,16,4,7,5,7
+Sat Sep 5 2026,Newcastle United,AFC Bournemouth,2,2,17,14,7,6,7,5
+Sat Sep 5 2026,Nottingham Forest,Tottenham Hotspur,0,0,11,12,4,5,6,6
+Sat Sep 5 2026,Manchester City,Coventry City,1,0,17,8,7,3,8,4
+Sat Sep 5 2026,Brighton & Hove Albion,Leeds United,1,1,15,12,6,5,7,5
+Sat Sep 5 2026,Brentford,Sunderland,1,1,13,10,5,4,6,4
+Sat Sep 5 2026,Fulham,Crystal Palace,2,3,17,16,7,7,6,5
+Sat Sep 5 2026,Hull City,Aston Villa,0,0,11,10,4,4,5,6
+Sun Sep 6 2026,Everton,Manchester United,2,2,15,16,6,7,5,6
+Sun Sep 6 2026,Arsenal,Chelsea,2,1,19,14,8,6,8,6
+Sat Sep 12 2026,Crystal Palace,Ipswich Town,2,3,17,16,7,7,6,4
+Sat Sep 12 2026,Liverpool,Fulham,0,0,15,10,6,4,8,5
+Sat Sep 12 2026,Aston Villa,Nottingham Forest,1,2,15,14,6,6,7,5
+Sat Sep 12 2026,AFC Bournemouth,Brentford,2,2,17,14,7,6,6,5
+Sat Sep 12 2026,Chelsea,Hull City,2,2,19,14,8,6,7,4
+Sat Sep 12 2026,Tottenham Hotspur,Everton,0,0,13,8,5,3,7,4
+Sat Sep 12 2026,Sunderland,Arsenal,0,2,11,16,4,7,5,7
+Sun Sep 13 2026,Coventry City,Brighton & Hove Albion,0,5,11,22,4,10,5,6
+Sun Sep 13 2026,Manchester United,Manchester City,0,1,13,14,5,6,7,7
+Mon Sep 14 2026,Leeds United,Newcastle United,4,1,21,12,9,5,5,6
+Fri Sep 18 2026,Brentford,Chelsea,3,0,19,12,8,5,6,6
+Sat Sep 19 2026,Tottenham Hotspur,Aston Villa,2,3,19,18,8,8,7,6
+Sat Sep 19 2026,Everton,Ipswich Town,1,0,13,8,5,3,5,4
+Sat Sep 19 2026,Brighton & Hove Albion,Arsenal,3,0,21,12,9,5,7,7
+Sat Sep 19 2026,Newcastle United,Hull City,2,1,17,10,7,4,7,4
+Sat Sep 19 2026,Nottingham Forest,Coventry City,0,1,11,10,4,4,6,4
+Sun Sep 20 2026,AFC Bournemouth,Liverpool,0,1,11,14,4,6,6,7
+Sun Sep 20 2026,Leeds United,Crystal Palace,0,0,11,10,4,4,5,5
+Sun Sep 20 2026,Manchester City,Sunderland,5,3,27,16,12,7,8,4
+Sun Sep 20 2026,Fulham,Manchester United,1,1,15,12,6,5,6,6
+Sat Oct 10 2026,Arsenal,Leeds United,2,1,19,12,8,5,8,5
+Sat Oct 10 2026,Aston Villa,Brentford,2,2,17,14,7,6,7,5
+Sat Oct 10 2026,Chelsea,AFC Bournemouth,5,1,25,12,11,5,7,5
+Sat Oct 10 2026,Ipswich Town,Fulham,2,1,15,12,6,5,5,5
+Sat Oct 10 2026,Manchester United,Tottenham Hotspur,1,1,15,14,6,6,7,6
+Sat Oct 10 2026,Sunderland,Brighton & Hove Albion,0,2,11,16,4,7,5,6
+Sun Oct 11 2026,Crystal Palace,Nottingham Forest,3,1,19,12,8,5,6,5
+Sun Oct 11 2026,Hull City,Everton,2,2,15,14,6,6,5,4
+Sun Oct 11 2026,Liverpool,Manchester City,0,3,15,20,6,9,8,7
+Mon Oct 12 2026,Coventry City,Newcastle United,4,1,19,12,8,5,5,6
+Sat Oct 17 2026,Brentford,Liverpool,1,2,13,16,5,7,6,7
+Sat Oct 17 2026,Everton,Chelsea,0,2,11,16,4,7,5,6
+Sat Oct 17 2026,Fulham,Hull City,1,0,15,8,6,3,6,4
+Sat Oct 17 2026,Manchester City,Ipswich Town,3,2,21,14,9,6,8,4
+Sat Oct 17 2026,Newcastle United,Aston Villa,0,1,13,14,5,6,7,6
+Sun Oct 18 2026,AFC Bournemouth,Sunderland,2,0,17,8,7,3,6,4
+Sun Oct 18 2026,Brighton & Hove Albion,Crystal Palace,5,0,25,10,11,4,7,5
+Sun Oct 18 2026,Leeds United,Manchester United,1,1,13,12,5,5,5,6
+Sun Oct 18 2026,Nottingham Forest,Arsenal,0,1,11,14,4,6,6,7
+Mon Oct 19 2026,Tottenham Hotspur,Coventry City,3,1,21,10,9,4,7,4
+Fri Oct 23 2026,Ipswich Town,Nottingham Forest,1,1,13,12,5,5,5,5
+Sat Oct 24 2026,Arsenal,Everton,2,0,19,8,8,3,8,4
+Sat Oct 24 2026,Aston Villa,Manchester City,2,1,17,14,7,6,7,7
+Sat Oct 24 2026,Chelsea,Tottenham Hotspur,0,2,13,16,5,7,7,6
+Sat Oct 24 2026,Coventry City,Fulham,0,1,11,12,4,5,5,5
+Sun Oct 25 2026,Crystal Palace,Newcastle United,0,2,11,16,4,7,6,6
+Sun Oct 25 2026,Hull City,Brentford,1,1,13,12,5,5,5,5
+Sun Oct 25 2026,Liverpool,Brighton & Hove Albion,2,0,19,10,8,4,8,6
+Sun Oct 25 2026,Manchester United,AFC Bournemouth,0,3,13,16,5,7,7,5
+Sun Oct 25 2026,Sunderland,Leeds United,0,0,11,8,4,3,5,5
+Sat Oct 31 2026,AFC Bournemouth,Leeds United,2,0,17,8,7,3,6,5
+Sat Oct 31 2026,Aston Villa,Fulham,1,1,15,12,6,5,7,5
+Sat Oct 31 2026,Brentford,Nottingham Forest,2,0,17,10,7,4,6,5
+Sat Oct 31 2026,Chelsea,Manchester United,2,0,19,10,8,4,7,6
+Sat Oct 31 2026,Coventry City,Sunderland,3,1,17,10,7,4,5,4
+Sat Oct 31 2026,Hull City,Ipswich Town,2,2,15,14,6,6,5,4
+Sat Oct 31 2026,Manchester City,Brighton & Hove Albion,0,1,15,14,6,6,8,6
+Sat Oct 31 2026,Tottenham Hotspur,Crystal Palace,2,0,19,10,8,4,7,5
+Sun Nov 1 2026,Liverpool,Arsenal,0,1,15,14,6,6,8,7
+Mon Nov 2 2026,Newcastle United,Everton,0,1,13,12,5,5,7,4
+Fri Nov 6 2026,Everton,Coventry City,3,1,17,10,7,4,5,4
+Sat Nov 7 2026,Leeds United,Tottenham Hotspur,1,0,13,12,5,5,5,6
+Sat Nov 7 2026,Fulham,Newcastle United,1,1,15,12,6,5,6,6
+Sat Nov 7 2026,Arsenal,Hull City,1,0,17,8,7,3,8,4
+Sat Nov 7 2026,Nottingham Forest,Manchester City,3,1,19,14,8,6,6,7
+Sun Nov 8 2026,Ipswich Town,AFC Bournemouth,1,2,13,14,5,6,5,5
+Sun Nov 8 2026,Sunderland,Chelsea,1,0,13,12,5,5,5,6
+Sun Nov 8 2026,Brighton & Hove Albion,Brentford,2,0,17,10,7,4,7,5
+Sun Nov 8 2026,Crystal Palace,Liverpool,1,3,13,20,5,9,6,7
+Sun Nov 8 2026,Manchester United,Aston Villa,4,4,23,20,10,9,7,6
+Sat Nov 21 2026,Chelsea,Leeds United,1,4,15,18,6,8,7,5
+Sat Nov 21 2026,Manchester City,Fulham,1,1,17,12,7,5,8,5
+Sat Nov 21 2026,Aston Villa,Sunderland,0,0,13,8,5,3,7,4
+Sat Nov 21 2026,AFC Bournemouth,Nottingham Forest,2,0,17,10,7,4,6,5
+Sat Nov 21 2026,Tottenham Hotspur,Ipswich Town,2,0,19,8,8,3,7,4
+Sat Nov 21 2026,Coventry City,Crystal Palace,3,2,17,14,7,6,5,5
+Sat Nov 21 2026,Newcastle United,Arsenal,2,2,17,16,7,7,7,7
